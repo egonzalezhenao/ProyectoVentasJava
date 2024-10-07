@@ -1,0 +1,10 @@
+ID: 1, Nombre: Producto_1, Precio: 77.53854406562968
+ID: 2, Nombre: Producto_2, Precio: 76.94448244567191
+ID: 3, Nombre: Producto_3, Precio: 99.48900526880502
+ID: 4, Nombre: Producto_4, Precio: 85.76409250975807
+ID: 5, Nombre: Producto_5, Precio: 44.777241002269086
+ID: 6, Nombre: Producto_6, Precio: 20.350042472898544
+ID: 7, Nombre: Producto_7, Precio: 18.873318326199662
+ID: 8, Nombre: Producto_8, Precio: 66.83461017065976
+ID: 9, Nombre: Producto_9, Precio: 19.70536033492747
+ID: 10, Nombre: Producto_10, Precio: 55.05213090848212

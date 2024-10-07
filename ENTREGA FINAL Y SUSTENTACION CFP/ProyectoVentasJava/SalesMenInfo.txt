@@ -1,0 +1,3 @@
+ID: 123456790, Nombre: Vendedor_1, Apellido: Apellido_1
+ID: 123456791, Nombre: Vendedor_2, Apellido: Apellido_2
+ID: 123456792, Nombre: Vendedor_3, Apellido: Apellido_3

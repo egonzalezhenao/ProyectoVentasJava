@@ -1,0 +1,3 @@
+ProductoID: 10, CantidadVendida: 88
+ProductoID: 10, CantidadVendida: 11
+ProductoID: 2, CantidadVendida: 35

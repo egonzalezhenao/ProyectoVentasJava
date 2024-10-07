@@ -1,0 +1,27 @@
+1. Lo aprendido durante el desarrollo del proyecto.
+
+Durante el desarrollo de este proyecto, aprendimos a manejar varias herramientas y conceptos fundamentales de la programación en Java, tales como:
+
+La creación, escritura y lectura de archivos de texto (archivos planos).
+El uso de la Programación Orientada a Objetos (POO) para estructurar el código de forma modular y reutilizable.
+La importancia de validar los datos para asegurar que los resultados sean correctos y coherentes.
+La implementación de manejo de excepciones para gestionar errores de forma eficiente.
+También adquirimos experiencia en la gestión de proyectos en equipo, el uso de GitHub para el control de versiones, y la integración de varias piezas de código en un proyecto completo.
+
+2. Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos y practicados durante el desarrollo del proyecto.
+
+Los conocimientos adquiridos en este proyecto tienen varias aplicaciones en nuestras vidas profesionales, entre ellas se destacan:
+
+Automatización de Tareas: El manejo de archivos planos puede utilizarse para automatizar procesos repetitivos en empresas que trabajan con grandes volúmenes de datos.
+Gestión de Datos: La creación y procesamiento de archivos de texto es útil en muchos ámbitos donde se necesita organizar y procesar grandes cantidades de datos.
+Desarrollo de Software: La estructura del proyecto nos ha ayudado a entender cómo organizar y documentar un proyecto de software, siguiendo buenas prácticas que se aplican en entornos profesionales.
+
+3. Las dificultades presentadas durante el desarrollo del proyecto.
+
+A lo largo del desarrollo del proyecto, enfrentamos algunas dificultades, entre las cuales destacamos:
+
+Problemas con la Validación de Datos: Al principio, fue un reto asegurarnos de que los datos generados fueran correctos (como evitar precios negativos o datos inconsistentes).
+Manejo de Excepciones: Implementar un manejo de excepciones eficiente fue un desafío, ya que queríamos asegurarnos de que el programa fuera robusto y los errores fueran claros.
+Organización del Código: Nos tomó un tiempo definir cómo estructurar correctamente las clases y métodos para que el programa fuera fácil de entender y mantener.
+
+Sin embargo, con esfuerzo y colaboración, logramos superar estas dificultades, y creemos que el resultado final cumple con los objetivos planteados.
